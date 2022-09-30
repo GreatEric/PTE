@@ -1,0 +1,17 @@
+万能RL模版
+
+This lecture has provided a lot of useful information.
+The main topics we can discuss in this lecture is that _.
+According to the speaker, he gives us some information about _.
+In addition, he also talked about the advantage of _.
+In conclusion, this lecture is very informative.
+
+===============================================================
+万能DI模版
+
+The following graph gives us information about (标题).
+According to this graph. We can know that items of 1,2,3 was included.
+and the number of xxxx is the highest one, followed by xxx.
+xxx has the bigest number.
+the value of xxx is around xxx to xxx.
+in conclusion, this graph provide us a lot of useful information.
